@@ -1,10 +1,10 @@
 class Kewt < Formula
   desc "Minimalist static site generator inspired by werc"
   homepage "https://kewt.krzak.org"
-  url "https://github.com/n0va-bot/kewt/releases/download/v1.6.4/kewt"
-  sha256 "adbf9e001d8b189e20cb73011c75dcc5ead36f167c8fd1626f7bae1536c8072e"
+  url "https://github.com/n0va-bot/kewt/releases/download/v1.6.5/kewt"
+  sha256 "70e6850fbf555f37a812a0a819908cd5af36f435cd8988d67a7d6e80e79fd4bc"
   license "ISC"
-  version "1.6.4"
+  version "1.6.5"
 
   def install
     bin.install "kewt"
